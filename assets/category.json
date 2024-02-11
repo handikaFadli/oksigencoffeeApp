@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Foods",
+    "image": "assets/images/vegans.png"
+  },
+  {
+    "name": "Coffee",
+    "image": "assets/images/coffee-cup.png"
+  },
+  {
+    "name": "Tea",
+    "image": "assets/images/tea.png"
+  },
+  {
+    "name": "Dessert",
+    "image": "assets/images/dessert.png"
+  }
+]

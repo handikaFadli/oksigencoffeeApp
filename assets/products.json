@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Product 1",
+    "description": "Description of Product 1",
+    "price": 20000,
+    "image": "assets/images/1.png",
+    "category": "Foods"
+  },
+  {
+    "name": "Product 2",
+    "description": "Description of Product 2",
+    "price": 22000,
+    "image": "assets/images/2.png",
+    "category": "Foods"
+  },
+  {
+    "name": "Product 3",
+    "description": "A cappuccino is an approximately 150 ml (5 oz) beverage, with 25 ml of espresso coffee and 85ml of fresh milk.",
+    "price": 19000,
+    "image": "assets/images/3.png",
+    "category": "Foods"
+  },
+  {
+    "name": "Product 4",
+    "description": "Description of Product 2",
+    "price": 15000,
+    "image": "assets/images/4.png",
+    "category": "Coffee"
+  },
+  {
+    "name": "Product 6",
+    "description": "Description of Product 2",
+    "price": 22000,
+    "image": "assets/images/4.png",
+    "category": "Tea"
+  }
+]
